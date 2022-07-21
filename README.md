@@ -1,1 +1,2 @@
-# ElisWorldIsTaken.github.io
+# RXS
+The better version of redXscript 
